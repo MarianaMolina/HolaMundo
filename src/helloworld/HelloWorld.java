@@ -21,6 +21,7 @@ import javax.swing.JOptionPane;
             String name = JOptionPane.showInputDialog("Type your name please");
             JOptionPane.showMessageDialog(null, "Hello " + name);
             
+            System.out.println("Hola Mundo");
             
         }
     }
